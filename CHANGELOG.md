@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-07-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`fb392ac`](https://github.com/stdlib-js/stdlib/commit/fb392ac4d71e19a7c67a55e896b02f37f2532895) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`4894ba9`](https://github.com/stdlib-js/stdlib/commit/4894ba93c712a1b42242c1c597afa9cdc811ad8c) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`df4afcc`](https://github.com/stdlib-js/stdlib/commit/df4afcc21abb34b90a9e196f289bb5b3c50708a4) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`5a8bc2d`](https://github.com/stdlib-js/stdlib/commit/5a8bc2d65b9589423a161822ee60b4b78b96c309) - **refactor:** update `stats/base/snanstdevch` native addon from C++ to C [(#4470)](https://github.com/stdlib-js/stdlib/pull/4470) _(by Dhruv Arvind Singh)_
@@ -30,11 +31,12 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Dhruv Arvind Singh
+-   Gururaj Gurram
 -   Philipp Burckhardt
 
 </section>
