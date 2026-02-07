@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-30)
+## Unreleased (2026-02-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f52da9e`](https://github.com/stdlib-js/stdlib/commit/f52da9e13bdc5a66f81238e00794dc4d04713f50) - **bench:** refractor to use string interpolation in `stats/base/snanstdevch` [(#10139)](https://github.com/stdlib-js/stdlib/pull/10139) _(by Shubham)_
 -   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`fb392ac`](https://github.com/stdlib-js/stdlib/commit/fb392ac4d71e19a7c67a55e896b02f37f2532895) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`4894ba9`](https://github.com/stdlib-js/stdlib/commit/4894ba93c712a1b42242c1c597afa9cdc811ad8c) - **refactor:** update paths _(by Aayush Khanna)_
@@ -32,13 +33,14 @@
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Dhruv Arvind Singh
 -   Gururaj Gurram
 -   Philipp Burckhardt
+-   Shubham
 
 </section>
 
