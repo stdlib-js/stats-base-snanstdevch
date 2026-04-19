@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-04-19)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`bf9d681`](https://github.com/stdlib-js/stdlib/commit/bf9d681bb656cb9356a7480a63e306353d52464a) - **bench:** refactor to use dynamic memory allocation in `blas/base/snanstdevch` [(#11609)](https://github.com/stdlib-js/stdlib/pull/11609) _(by Uday Kakade)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Uday Kakade
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-08)
